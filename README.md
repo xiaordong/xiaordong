@@ -1,7 +1,5 @@
 # 👋 Hi, I'm xiaordong  
 
-![Contribution Snake](https://raw.githubusercontent.com/xiaordong/xiaordong/output/github-contribution-grid-snake.svg)
-
 
 ## 🚀 关于我  
 准大三计算机科学专业学生，深耕全栈开发、数据分析与人工智能领域。具备 3 年编程经验，擅长通过多语言技术栈解决复杂问题：
