@@ -1,24 +1,8 @@
 # 👋 Hi, I'm xiaordong  
 
 
-## 🚀 关于我  
-大三学生，深耕全栈开发、数据分析与人工智能领域。具备 n 年编程经验，擅长通过多语言技术栈解决复杂问题：
-
-
-爬虫与逆向工程：精通 Python 爬虫体系（Scrapy/Requests/Selenium），熟悉 JavaScript 逆向分析（AST 还原、加密参数破解），完成多次爬虫/数据分析项目；
-
-
-全栈开发能力：掌握 Golang/Java/C++ 多语言开发，精通 React/Vue 前端框架，基于 gRPC 微服务架构实现高并发系统；
-
-
-数据与 AI 实践：熟练运用 TensorFlow/PyTorch 构建机器学习模型，擅长 Pandas/NumPy 数据处理与 Matplotlib 可视化，完成图像分类、用户行为分析等 AI 项目；
-
-
-AI Agent： 使用AI接口开发AI Agent应用，与自动化/LLM技术结合开发高可用的自动化AI助手`无聊时搞过AI自动刷题，包括创造性题目:(`;
-
-
-服务器与运维：熟悉 Linux 系统管理，掌握 Docker 容器化部署与 Kubernetes 集群管理，具备前后端项目全流程上线经验。
-
+## 🚀 About Meeeee~
+A CS undergrad tinkering with code — mostly around Go backend systems, AI agents, and web scraping.
 
 ## 🛠️ 我的技术栈  
 
@@ -48,25 +32,57 @@ AI Agent： 使用AI接口开发AI Agent应用，与自动化/LLM技术结合开
 </div>
 
 
-## 🔍 我的项目  
-### 🍖[美食推荐系统](https://github.com/xiaordong/food_recommendation)
-基于gRPC微服务架构实现高性能通信，采用ItemCF协同过滤算法构建个性化推荐引擎，为用户提供精准美食推荐，支持百万级数据实时处理与分析。
+### 🔍 Projects
 
-### 🌊 [水悦 - 宿舍管理系统](https://github.com/xiaordong/water)  
-微信小程序，覆盖报修、缴费、信息查询等核心流程，使用 WXML/WXSS/JS 实现，优化用户体验。  
+**🎙️ [Mini_TMK_Agent](https://github.com/xiaordong/Mini_TMK_Agent)** · Go
+Real-time speech translation agent — live mic interpreting, audio file transcription, and web UI. Powered by Whisper + LLM + TTS via OpenAI-compatible APIs. Supports ZH/EN/ES/JA.
 
-### 🚀 [water_backend](https://github.com/xiaordong/water_backend)  
-后端服务，基于 Golang + MySQL 架构，提供稳定 API 接口，处理业务逻辑与数据流转。  
+**🤖 [LearnKuAI](https://github.com/xiaordong/LearnKuAI)** · Python
+A 5-stage progressive guide to building AI Research Agents from scratch — Agent Loop, Tool Use, Memory, Plan-and-Execute, and production hardening. Python + GLM-4.7 + SQLite.
 
-### 🕸️ [网络爬虫 - 招聘信息采集](https://github.com/xiaordong/job-spider)  
-使用 Scrapy + MongoDB 开发的招聘信息采集系统，实现多网站数据抓取与分析。  
+**⚡ [Disruptor-go](https://github.com/xiaordong/Disruptor-go)** · Go
+Learning implementation of the LMAX Disruptor pattern in Go — lock-free ring buffer, high-performance concurrency, and low-latency message passing.
 
+**🕷️ [spider_learning](https://github.com/xiaordong/spider_learning)** · Python
+A collection of web scraping tutorials and code examples, covering Scrapy, Selenium, and anti-bot techniques.
 
-## 📩 联系我  
--:🐧QQ：2132047479@qq.com
-- 📧 邮箱：xiaordong@outlook.com  
-- 🔗 LinkedIn：[linkedin.com/in/xiaordong](https://www.linkedin.com/in/xiaordong)  
-- 🎬 Bilibili：皓月殇岚  
- 
+**🍖 [Food_recomdations](https://github.com/xiaordong/Food_recomdations)** · Go
+Food recommendation system with gRPC microservices and ItemCF collaborative filtering.
 
-期待与您合作，一起探索技术的无限可能！  
+**💬 [IM](https://github.com/xiaordong/IM)** · Go
+Instant messaging backend service built with Go.
+
+**⚡ [FlashKill](https://github.com/xiaordong/FlashKill)** · Go
+Go-based project for flash sale / seckill scenarios.
+
+**🔐 [Encrypt_Tool](https://github.com/xiaordong/Encrypt_Tool)** · C++
+Lightweight Qt/C++ encryption utility supporting SHA-256, RSA, and custom map-based encryption.
+
+**📱 [water](https://github.com/xiaordong/water) + [water_backend](https://github.com/xiaordong/water_backend)** · JavaScript / Go
+WeChat mini app "水悦" — dormitory water card management system, with a Go backend API service.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| Languages | `Go` `Python` `Java` `C++` |
+| Frontend | `React` `Vue` `TypeScript` |
+| Scraping & Rev | `Scrapy` `Selenium` `JS Reverse Engineering` |
+| AI & Data | `PyTorch` `TensorFlow` `LangChain` `Pandas` `Whisper` |
+| Backend | `gRPC` `FastAPI` `MySQL` `MongoDB` |
+| DevOps | `Docker` `Kubernetes` `Linux` |
+
+---
+
+### 📬 Reach Me
+
+- 📧 [xiaordong@outlook.com](mailto:xiaordong@outlook.com)
+- 🐧 QQ: 2132047479
+- 🔗 [LinkedIn](https://linkedin.com/in/xiaordong)
+- 🎬 Bilibili: 皓月殇岚
+
+---
+> Still learning, still building.
+
